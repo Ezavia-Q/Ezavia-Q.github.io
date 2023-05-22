@@ -6535,7 +6535,7 @@ blockquote.pullquote.right {
 }
 
 ::-webkit-scrollbar-track {
-  background-color: rgba(73, 177, 245, 0.2);
+  background-color: rgba(115, 142, 247, 0.448);
   border-radius: 2em;
 }
 
@@ -6701,13 +6701,13 @@ center#name-container {
   left: -102px;
 }
 .menus_items .menus_item:nth-child(5) .menus_item_child {
-  left: -117px;
+  left: -72px;
 }
 .menus_items .menus_item:nth-child(6) .menus_item_child {
   left: -133px;
 }
 .menus_items .menus_item:nth-child(7) .menus_item_child {
-  left: -105px;
+  left: -45px;
 }
 
 /*top-img黑色透明玻璃效果移除，不建议加，除非你执着于完全一图流或者背景图对比色明显 */
