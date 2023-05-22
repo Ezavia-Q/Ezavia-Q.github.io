@@ -92,7 +92,7 @@
   </url>
   
   <url>
-    <loc>https://www.cielocanto.cc/site/census/index.html</loc>
+    <loc>https://www.cielocanto.cc/personal/bb/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -110,16 +110,7 @@
   </url>
   
   <url>
-    <loc>https://www.cielocanto.cc/personal/bb/index.html</loc>
-    
-    <lastmod>2023-03-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.cielocanto.cc/social/fcircle/index.html</loc>
+    <loc>https://www.cielocanto.cc/site/census/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -129,6 +120,15 @@
   
   <url>
     <loc>https://www.cielocanto.cc/site/time/index.html</loc>
+    
+    <lastmod>2023-03-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.cielocanto.cc/social/fcircle/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
