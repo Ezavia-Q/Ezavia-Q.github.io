@@ -38,25 +38,16 @@
   </url>
   
   <url>
-    <loc>https://www.cielocanto.cc/categories/index.html</loc>
-    
-    <lastmod>2023-03-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.cielocanto.cc/box/animation/index.html</loc>
-    
-    <lastmod>2023-03-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://www.cielocanto.cc/tags/index.html</loc>
+    
+    <lastmod>2023-03-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.cielocanto.cc/categories/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -74,7 +65,7 @@
   </url>
   
   <url>
-    <loc>https://www.cielocanto.cc/box/nav/index.html</loc>
+    <loc>https://www.cielocanto.cc/box/animation/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -92,7 +83,7 @@
   </url>
   
   <url>
-    <loc>https://www.cielocanto.cc/life/movies/index.html</loc>
+    <loc>https://www.cielocanto.cc/box/nav/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -101,7 +92,7 @@
   </url>
   
   <url>
-    <loc>https://www.cielocanto.cc/personal/bb/index.html</loc>
+    <loc>https://www.cielocanto.cc/life/movies/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -128,7 +119,7 @@
   </url>
   
   <url>
-    <loc>https://www.cielocanto.cc/social/fcircle/index.html</loc>
+    <loc>https://www.cielocanto.cc/personal/bb/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -138,6 +129,15 @@
   
   <url>
     <loc>https://www.cielocanto.cc/social/link/index.html</loc>
+    
+    <lastmod>2023-03-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.cielocanto.cc/social/fcircle/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -166,22 +166,22 @@
 
   <url>
     <loc>https://www.cielocanto.cc/</loc>
-    <lastmod>2023-06-02</lastmod>
+    <lastmod>2023-06-20</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
   <url>
-    <loc>https://www.cielocanto.cc/tags/%E9%97%B2%E8%AF%9D/</loc>
-    <lastmod>2023-06-02</lastmod>
+    <loc>https://www.cielocanto.cc/tags/%E6%B4%9B%E5%B0%94%E8%BF%A6/</loc>
+    <lastmod>2023-06-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://www.cielocanto.cc/tags/%E6%B4%9B%E5%B0%94%E8%BF%A6/</loc>
-    <lastmod>2023-06-02</lastmod>
+    <loc>https://www.cielocanto.cc/tags/%E9%97%B2%E8%AF%9D/</loc>
+    <lastmod>2023-06-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -189,15 +189,15 @@
 
   
   <url>
-    <loc>https://www.cielocanto.cc/categories/%E8%AE%B0%E6%A2%A6/</loc>
-    <lastmod>2023-06-02</lastmod>
+    <loc>https://www.cielocanto.cc/categories/%E7%AC%94%E8%AE%B0/</loc>
+    <lastmod>2023-06-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://www.cielocanto.cc/categories/%E7%AC%94%E8%AE%B0/</loc>
-    <lastmod>2023-06-02</lastmod>
+    <loc>https://www.cielocanto.cc/categories/%E8%AE%B0%E6%A2%A6/</loc>
+    <lastmod>2023-06-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
